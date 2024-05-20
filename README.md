@@ -22,7 +22,6 @@ The provided Rainmeter skin is stylized to fit in with my other Rainmeter skin, 
 1. Assemble your Arduino circuit like so:
 <br><br>
 ![circuit](https://www.circuitgeeks.com/wp-content/uploads/2021/11/DHT11-Sensor-Module-with-Arduino-Circuit-Diagram.png)
-<br>
 
 2. Download the [Arduino code](https://github.com/supercam19/TemperatureDisplay/releases/latest)
 
