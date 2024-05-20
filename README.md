@@ -23,7 +23,9 @@ The provided Rainmeter skin is stylized to fit in with my other Rainmeter skin, 
 <br><br>
 ![circuit](https://www.circuitgeeks.com/wp-content/uploads/2021/11/DHT11-Sensor-Module-with-Arduino-Circuit-Diagram.png)
 <br>
+
 2. Download the [Arduino code](https://github.com/supercam19/TemperatureDisplay/releases/latest)
+
 3. If you want to output the temperature in fahrenheit, uncomment the 'printFahrenheit()' line and comment out the 'printCelsius()' line. If you did not use digitalPin 2, make sure to change that at the top of the file. Upload the code to your Arduino. Take note of which Serial port it is on.
 4. Download the [Rainmeter skin](https://github.com/supercam19/TemperatureDisplay/releases/latest) and double click the file to install it through the Rainmeter installer.
 
