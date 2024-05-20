@@ -1,6 +1,6 @@
 <h1 style="text-align: center;">🌡 Temperature Display</h1>
-This project allows you to connect a DHT11 temperature/humidity sensor to a Rainmeter skin to conveniently display your room temperature on your desktop. Note that this is a Windows only solution.
-<br><br>
+This project allows you to connect a DHT11 temperature/humidity sensor to a Rainmeter skin to conveniently display your room temperature on your desktop. Note that this is a Windows only solution.<br><br>
+
 The provided Rainmeter skin is stylized to fit in with my other Rainmeter skin, [Delta](https://www.github.com/supercam19/Delta).
 <br><br>
 <img
